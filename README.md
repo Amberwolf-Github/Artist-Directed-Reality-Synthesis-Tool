@@ -19,7 +19,7 @@ ADRS originated from a real artist need, not a corporate product roadmap.
 - Accessibility is a first‑class requirement
 - Open source, forever
 
-See `VISION.md` for the full concept.
+See `ORIGINAL_CONCEPT.md` for the full concept.
 
 
 The creator of this repository is not a coder, so there is no current code repository.  This needs to be created by those that can do so. 
